@@ -23,15 +23,10 @@ React -Context API, Vite - SPA, JavaScript, CSS, Git &GitHub.
 my-spa/
 
 |── node_modules/
-
 |── public/
-
 |     └── vite.svg
-
 |── src/
-
 |     |── assets/
-
 |     |── App.css
 |     |── App.jsx
 |     |── AuthContext.jsx
