@@ -21,11 +21,17 @@ React -Context API, Vite - SPA, JavaScript, CSS, Git &GitHub.
 (THIS PROJECT STRUCTURE INCLUDES ALL THE PROJECT FOLDERS THAT WILL BE UPLOADED TO YOU DEVICE AFTER CREATING A PROJECT USING VITE) 
 
 my-spa/
+
 |── node_modules/
+
 |── public/
+
 |     └── vite.svg
+
 |── src/
+
 |     |── assets/
+
 |     |── App.css
 |     |── App.jsx
 |     |── AuthContext.jsx
