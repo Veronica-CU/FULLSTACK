@@ -1,0 +1,9 @@
+{
+  "git": {
+    "deploymentEnabled": {
+      "exp4": true
+    }
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
