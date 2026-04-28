@@ -1,1 +1,1 @@
-***ALL the submission of the FUll Stack will be done from this repo itself for the UID 23BIS70115 ; NAME- LIMAKATSO VERONICA LIPHOTO;***
+***ALL thE submissions of the Fullstack Practicals from 1- 10 will be uploaded into this repo itself for I, LIMAKATSO VERONICA LIPHOTO UID 23BIS70115. ;***
